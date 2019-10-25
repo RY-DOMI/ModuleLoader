@@ -1,0 +1,8 @@
+C:\Users\Dominik\source\repos\Module\Module.Logging\bin\Debug\netstandard2.0\Module.Logging.deps.json
+C:\Users\Dominik\source\repos\Module\Module.Logging\bin\Debug\netstandard2.0\Module.Logging.dll
+C:\Users\Dominik\source\repos\Module\Module.Logging\bin\Debug\netstandard2.0\Module.Logging.pdb
+C:\Users\Dominik\source\repos\Module\Module.Logging\obj\Debug\netstandard2.0\Module.Logging.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\Module\Module.Logging\obj\Debug\netstandard2.0\Module.Logging.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\Module\Module.Logging\obj\Debug\netstandard2.0\Module.Logging.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\Module\Module.Logging\obj\Debug\netstandard2.0\Module.Logging.dll
+C:\Users\Dominik\source\repos\Module\Module.Logging\obj\Debug\netstandard2.0\Module.Logging.pdb

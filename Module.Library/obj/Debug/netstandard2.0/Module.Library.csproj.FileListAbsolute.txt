@@ -1,0 +1,8 @@
+C:\Users\Dominik\source\repos\Module\Module.Library\bin\Debug\netstandard2.0\Module.Library.deps.json
+C:\Users\Dominik\source\repos\Module\Module.Library\bin\Debug\netstandard2.0\Module.Library.dll
+C:\Users\Dominik\source\repos\Module\Module.Library\bin\Debug\netstandard2.0\Module.Library.pdb
+C:\Users\Dominik\source\repos\Module\Module.Library\obj\Debug\netstandard2.0\Module.Library.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\Module\Module.Library\obj\Debug\netstandard2.0\Module.Library.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\Module\Module.Library\obj\Debug\netstandard2.0\Module.Library.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\Module\Module.Library\obj\Debug\netstandard2.0\Module.Library.dll
+C:\Users\Dominik\source\repos\Module\Module.Library\obj\Debug\netstandard2.0\Module.Library.pdb

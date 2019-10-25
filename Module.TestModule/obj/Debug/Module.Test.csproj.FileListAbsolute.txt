@@ -1,0 +1,12 @@
+C:\Users\Dominik\source\repos\Module\Module.TestModule\bin\Debug\Module.Library.dll
+C:\Users\Dominik\source\repos\Module\Module.TestModule\bin\Debug\Module.Logging.dll
+C:\Users\Dominik\source\repos\Module\Module.TestModule\bin\Debug\Module.Library.pdb
+C:\Users\Dominik\source\repos\Module\Module.TestModule\bin\Debug\Module.Logging.pdb
+C:\Users\Dominik\source\repos\Module\Module.TestModule\obj\Debug\Module.Test.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\Module\Module.TestModule\obj\Debug\Module.Test.csproj.CopyComplete
+C:\Users\Dominik\source\repos\Module\Module.TestModule\bin\Debug\TestModule.dll
+C:\Users\Dominik\source\repos\Module\Module.TestModule\bin\Debug\TestModule.pdb
+C:\Users\Dominik\source\repos\Module\Module.TestModule\obj\Debug\TestModule.dll
+C:\Users\Dominik\source\repos\Module\Module.TestModule\obj\Debug\TestModule.pdb
+C:\Users\Dominik\source\repos\Module\Module\bin\Debug\modules\TestModule.dll
+C:\Users\Dominik\source\repos\Module\Module\bin\Debug\modules\TestModule.pdb
